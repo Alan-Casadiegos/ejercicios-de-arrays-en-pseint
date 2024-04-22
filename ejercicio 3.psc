@@ -4,10 +4,10 @@ Algoritmo sin_titulo
 	leer x
 	dimension numers[x]
 		dimension numeros_invertidos[x]
-		Definir i, z, temp Como Entero
+		Definir i, z Como Entero
 		
 		Para i <- 1 Hasta x con paso 1 hacer
-			Escribir "Ingrese el número ", i
+			Escribir "Ingrese el nÃºmero ", i
 			Leer numers[i]
 		Fin Para
 		
